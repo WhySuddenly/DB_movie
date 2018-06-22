@@ -5,7 +5,7 @@
       <div class="nav">
         <ul class="clearfix">
           <li class="m_color"><router-link to="/" >电影</router-link></li>
-          <li class="b_color"><router-link to="/book" >图书</router-link></li>
+          <!--<li class="b_color"><router-link to="/book" >图书</router-link></li>-->
         </ul>
         <div class="navicon" v-on:click="show_t"></div>
       </div>
